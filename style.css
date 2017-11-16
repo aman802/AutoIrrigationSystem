@@ -25,3 +25,17 @@ body{
   background-color: #d35400;
   border: 5px solid #f1c40f;
 }
+
+.text_on_img{
+    position: relative;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+}
+
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
