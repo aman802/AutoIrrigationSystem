@@ -1,0 +1,27 @@
+body{
+    padding-top: 50px;
+    background-image: url("water2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar{
+    border-radius: 0px;
+    background-color: #000;
+}
+
+.navbar-brand{
+    color: #fff;
+    font-size: 25px;
+}
+
+.content{
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+}
+
+.profile-img{
+  background-color: #d35400;
+  border: 5px solid #f1c40f;
+}
